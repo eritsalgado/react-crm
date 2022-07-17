@@ -34,7 +34,7 @@ const FormularioCliente = ({cliente, cargando}) => {
             console.log('editando')
         }
         try {
-            const url = `http://localhost:4000/clientes${adicional}`
+            const url = `${import.meta.env.VITE_API_URL}${adicional}`
             console.log(url)
             const respuesta = await fetch(url, {
                 method: method,
