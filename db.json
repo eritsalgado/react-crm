@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Erit Salgado",
+      "empresa": "Erits",
+      "email": "erit.salgado@gmail.com",
+      "telefono": "5615559642",
+      "notas": "Un viciado de programación",
+      "id": 1
+    },
+    {
+      "nombre": "Jorge Alberto",
+      "empresa": "Jorges",
+      "email": "jorge@gmail.com",
+      "telefono": "5534098876",
+      "notas": "Es un manco",
+      "id": 2
+    },
+    {
+      "nombre": "Elizabeth Xala",
+      "empresa": "Lizzie's Donnuts",
+      "email": "elizabeth@gmail.com",
+      "telefono": "5512123334",
+      "notas": "Una dama elegante",
+      "id": 3
+    },
+    {
+      "nombre": "Mirna Gallardo",
+      "empresa": "Mina's",
+      "email": "mina@gmail.com",
+      "telefono": "5555669988",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
